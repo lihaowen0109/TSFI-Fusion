@@ -40,7 +40,7 @@ python test.py
 
 ## 🔹 Related work
 
-```python
+```
 @inproceedings{zhao2023cddfuse,
   title={Cddfuse: Correlation-driven dual-branch feature decomposition for multi-modality image fusion},
   author={Zhao, Zixiang and Bai, Haowen and Zhang, Jiangshe and Zhang, Yulun and Xu, Shuang and Lin, Zudi and Timofte, Radu and Van Gool, Luc},
@@ -53,6 +53,4 @@ python test.py
 
 ## 🔹 Acknowledgements
 
-The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), and [CAS-ViT](https://github.com/Tianfang-Zhang/CAS-ViT). Please also follow their licenses. Thanks for their awesome work. 
-
-md…]()
+The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), and [CAS-ViT](https://github.com/Tianfang-Zhang/CAS-ViT). Please also follow their licenses. Thanks for their awesome work.
