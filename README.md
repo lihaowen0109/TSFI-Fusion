@@ -53,4 +53,4 @@ python test.py
 
 ## Acknowledgements
 
-The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), and [CAS-ViT](https://github.com/Tianfang-Zhang/CAS-ViT). Please also follow their licenses. Thanks for their awesome work.
+The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse) and [CAS-ViT](https://github.com/Tianfang-Zhang/CAS-ViT). Please also follow their licenses. Thanks for their awesome work.
