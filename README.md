@@ -55,4 +55,4 @@ The indicators mentioned in the paper can be found here: [Excellent code](https:
 
 ## Acknowledgements
 
-The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), [CAS-ViT](https://github.com/Tianfang-Zhang/CAS-ViT) and [FFL](https://github.com/EndlessSora/focal-frequency-loss). Please also follow their licenses. Thanks for their awesome work.
+The codes are based on [CDDFuse](https://github.com/Zhaozixiang1228/MMIF-CDDFuse), [CAS-ViT](https://github.com/Tianfang-Zhang/CAS-ViT) and [Focal Frequency Loss](https://github.com/EndlessSora/focal-frequency-loss). Please also follow their licenses. Thanks for their awesome work.
